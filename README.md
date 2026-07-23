@@ -12,7 +12,7 @@
 ## 🌐 Live Demo
 
 <!-- Replace this URL after deploying to Streamlit Cloud -->
-> 🚀 **[Launch the App](https://your-app-url.streamlit.app)** ← *(update after deployment)*
+> 🚀 **[Launch the App](https://your-app-url.streamlit.app)** 
 
 ---
 
